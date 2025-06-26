@@ -1,0 +1,30 @@
+body {
+    font-family: "Baumans", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    color: brown;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20px;
+    color: brown;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 8px;
+    text-align: left;
+    border: solid;
+    width: 400px;
+}
+
+
+
